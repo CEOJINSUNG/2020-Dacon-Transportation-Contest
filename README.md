@@ -9,7 +9,7 @@
 [데이터 예측]
 규진 -> 노인사망률 예측함! 시간별로 정리할 수 있도록 TimeAge 사용할 예정
 
-[Pick's Idea]
+[Idea Sharing]
 
 https://www.kaggle.com/neelkudu28/covid-19-visualizations-predictions-forecasting#Prediction-using-Machine-Learning-Models
 
