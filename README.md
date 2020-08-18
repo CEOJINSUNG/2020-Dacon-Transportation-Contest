@@ -8,3 +8,9 @@
 
 [데이터 예측]
 규진 -> 노인사망률 예측함! 시간별로 정리할 수 있도록 TimeAge 사용할 예정
+
+[Pick's Idea]
+
+https://www.kaggle.com/neelkudu28/covid-19-visualizations-predictions-forecasting#Prediction-using-Machine-Learning-Models
+
+위 글을 분석하면서 보니까 우리가 놓친것이 시간에 따른 코로나 예측!? 물론 우리가 교통데이터라 시간이 필요없을거 같기도 함. 혹시나 해서 넣어봄
